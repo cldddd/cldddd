@@ -51,7 +51,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/cldddd/cldddd/output/github-contribution-grid-snake.svg)
 
-_generated with [Platane/snk](https://github.com/cldddd/snk)_
 <!--
 **cldddd/cldddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
