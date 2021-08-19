@@ -49,6 +49,8 @@
 [![Gpu Badge](	https://img.shields.io/badge/NVIDIA-GTX1070ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
 
 
+![Snake animation](https://github.com/cldddd/cldddd/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **cldddd/cldddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
