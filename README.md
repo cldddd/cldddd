@@ -34,7 +34,7 @@
 
 
 ##
-### Linguagens e Status!
+### Status!
 
 [![cldddd GitHub stats](https://github-readme-stats.vercel.app/api?username=cldddd&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=trued)](https://github.com/cldddd/github-readme-stats)
 <!--[![cldddd GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cldddd&layout=compact&langs_count=7&theme=highcontrast)](https://github.com/cldddd/github-readme-stats)-->
